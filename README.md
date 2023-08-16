@@ -63,9 +63,9 @@ python demo.py
 
 
 
-### To Do:
-* Training code
-* Pretrained model
+### TODO:
+* Release trained model
+* Release trained model
 
 
 
