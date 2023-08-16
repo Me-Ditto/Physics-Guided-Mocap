@@ -1,0 +1,23 @@
+gdown
+numpy
+scipy
+ipdb   1111
+vtk
+numpy-stl
+joblib
+opencv-python
+tqdm 
+pyyaml
+wandb
+scikit-image
+gym
+git+https://github.com/ZhengyiLuo/smplx.git@master    1111
+lxml
+human_body_prior
+autograd
+sklearn
+chumpy
+patchelf  111
+chardet
+pyopengl
+torchgeometry

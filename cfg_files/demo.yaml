@@ -1,0 +1,43 @@
+# experiment name
+note: vae_diffusion 
+
+#project basic
+task: diffusion 
+
+#model basic
+lr: 0.0001
+epoch: 2000
+worker: 0
+frame_length: 24
+num_joint: 26 
+
+#********dataset*********#
+data_folder: \\105.1.1.110\e\IJCAI\training_data
+
+testset: Human36M_MOSH
+
+model: Diffusion
+batchsize: 32
+mode: test
+gpu_index: 0
+
+# VAE
+latentD: 147
+
+# Diffusion
+timestep: 5
+
+# pretrain
+pretrain: False
+pretrain_dir: pretrain_model\diffusion_epoch002.pkl
+
+use_vae_prior: True
+vae_dir: pretrain_model\vae_epoch010.pkl
+
+
+
+#loss 
+test_loss: PA_MPJPE
+
+#visualize
+viz: True # False
