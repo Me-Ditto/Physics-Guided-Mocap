@@ -4,7 +4,7 @@ The code for IJCAI 2023 paper "Physics-Guided Human Motion Capture with Pose Pro
 Jingyi Ju, [Buzhen Huang](http://www.buzhenhuang.com/), Chen Zhu, Zhihao Li, [Yangang Wang](https://www.yangangwang.com/#me)<br>
 \[[Paper](https://www.yangangwang.com/papers/IJCAI2023/jyj23_pgh.pdf)\]<br>
 
-![figure](/images/teaser.jpg)
+![figure](/images/image.jpg)
 
 
 
@@ -60,6 +60,14 @@ ${ROOT}
 ```
 python demo.py
 ```
+
+
+
+### To Do:
+* Training code
+* Pretrained model
+
+
 
 
 ## Citation
