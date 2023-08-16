@@ -1,4 +1,12 @@
-# Physics-Guided-Mocap
+# \[IJCAI2023\] Physics-Guided Human Motion Capture with Pose Probability Modeling (Physics-Guided-Mocap)
+
+The code for IJCAI 2023 paper "Physics-Guided Human Motion Capture with Pose Probability Modeling"<br>
+Jingyi Ju, [Buzhen Huang](http://www.buzhenhuang.com/), Chen Zhu, Zhihao Li, [Yangang Wang](https://www.yangangwang.com/#me)<br>
+\[[Paper](https://www.yangangwang.com/papers/IJCAI2023/jyj23_pgh.pdf)\]<br>
+
+![figure](/images/teaser.pdf)
+
+
 
 
 ## Installation
@@ -44,8 +52,6 @@ ${ROOT}
 
 
 
-
-
 ## Usage
 
 ### Demo
@@ -56,4 +62,19 @@ python demo.py
 ```
 
 
+## Citation
+If you find this code useful for your research, please consider citing the paper.
+```
+@inproceedings{Ju2023physics,
+      title={Physics-Guided Human Motion Capture with Pose Probability Modeling}, 
+      author={Jingyi Ju, Buzhen Huang, Chen Zhu, Zhihao Li and Yangang Wang},
+      year={2023},
+      booktitle={IJCAI},
+}
+```
+## Reference
+Some of the code is based on the following works. We gratefully appreciate the impact they have on our work.<br>
 
+[UniversalHumanoidControl](https://github.com/ZhengyiLuo/UniversalHumanoidControl)<br>
+[SMPL-X](https://github.com/vchoutas/smplify-x)<br>
+[CLIFF](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)<br>
