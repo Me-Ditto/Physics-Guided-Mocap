@@ -65,7 +65,7 @@ python demo.py
 
 ### TODO:
 * Release trained model
-* Release trained model
+* Release training code
 
 
 
