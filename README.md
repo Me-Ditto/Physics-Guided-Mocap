@@ -73,12 +73,20 @@ python demo.py
 ## Citation
 If you find this code useful for your research, please consider citing the paper.
 ```
-@inproceedings{Ju2023physics,
-      title={Physics-Guided Human Motion Capture with Pose Probability Modeling}, 
-      author={Jingyi Ju, Buzhen Huang, Chen Zhu, Zhihao Li and Yangang Wang},
-      year={2023},
-      booktitle={IJCAI},
+@inproceedings{ijcai2023p105,
+  title     = {Physics-Guided Human Motion Capture with Pose Probability Modeling},
+  author    = {Ju, Jingyi and Huang, Buzhen and Zhu, Chen and Li, Zhihao and Wang, Yangang},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, {IJCAI-23}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Edith Elkind},
+  pages     = {947--955},
+  year      = {2023},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2023/105},
+  url       = {https://doi.org/10.24963/ijcai.2023/105},
 }
+
 ```
 ## Reference
 Some of the code is based on the following works. We gratefully appreciate the impact they have on our work.<br>
