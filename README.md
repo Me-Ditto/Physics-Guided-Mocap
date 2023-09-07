@@ -1,8 +1,8 @@
-# \[IJCAI2023\] Physics-Guided Human Motion Capture with Pose Probability Modeling (Physics-Guided-Mocap)
+# \[IJCAI2023\] Physics-Guided Human Motion Capture with Pose Probability Modeling
 
 The code for IJCAI 2023 paper "Physics-Guided Human Motion Capture with Pose Probability Modeling"<br>
 Jingyi Ju, [Buzhen Huang](http://www.buzhenhuang.com/), Chen Zhu, Zhihao Li, [Yangang Wang](https://www.yangangwang.com/#me)<br>
-\[[Paper](https://www.yangangwang.com/papers/IJCAI2023/jyj23_pgh.pdf)\]<br>
+\[[Paper](https://www.ijcai.org/proceedings/2023/0105.pdf)\]<br>
 
 ![figure](/images/pipeline.jpg)
 
@@ -76,15 +76,9 @@ If you find this code useful for your research, please consider citing the paper
 @inproceedings{ijcai2023p105,
   title     = {Physics-Guided Human Motion Capture with Pose Probability Modeling},
   author    = {Ju, Jingyi and Huang, Buzhen and Zhu, Chen and Li, Zhihao and Wang, Yangang},
-  booktitle = {Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, {IJCAI-23}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {Edith Elkind},
+  booktitle = {International Joint Conference on Artificial Intelligence, IJCAI},
   pages     = {947--955},
   year      = {2023},
-  month     = {8},
-  note      = {Main Track},
-  doi       = {10.24963/ijcai.2023/105},
-  url       = {https://doi.org/10.24963/ijcai.2023/105},
 }
 
 ```
